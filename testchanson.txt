@@ -2,6 +2,10 @@ Vazy franky
 
 C'est bonnnn
 
+<<<<<<< HEAD
 vazy
+=======
+vazy adrien ok
+>>>>>>> f6165e2813db172af4d2ee3344d410c6a96ac3e0
 
 ok
