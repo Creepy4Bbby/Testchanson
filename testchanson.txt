@@ -1,6 +1,14 @@
 
+<<<<<<< HEAD
 toi
 
 toi
 
 tt
+=======
+bonsoir
+
+ok
+
+non
+>>>>>>> 602611a225bbda5a2898701135f0ba8b6055f3d5
